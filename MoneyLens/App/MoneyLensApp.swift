@@ -7,7 +7,7 @@
 
 import SwiftUI
 // Comment
-// commit from local
+// commit from local  change again
 @main
 struct MoneyLensApp: App {
     var body: some Scene {
